@@ -1,0 +1,21 @@
+_id: req_b516392cbe05447fb0ab59890bb5be49
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705548234
+created: 1659705501675
+url: http://localhost:8080/produtos/2
+name: Procurar por id Produtos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659705501675
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

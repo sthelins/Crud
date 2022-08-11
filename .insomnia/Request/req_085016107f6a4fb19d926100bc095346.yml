@@ -1,0 +1,31 @@
+_id: req_085016107f6a4fb19d926100bc095346
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705900319
+created: 1659705684947
+url: http://localhost:8080/produtos
+name: Alterar produtos
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id":5,
+    	"nome":"doril",
+    	"cor":"amarelo claro"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fe72142cf6d8494fa7516b5b0ca678d5
+authentication: {}
+metaSortKey: -1659705684947
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
