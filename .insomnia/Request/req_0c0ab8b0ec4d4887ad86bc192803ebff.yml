@@ -1,0 +1,21 @@
+_id: req_0c0ab8b0ec4d4887ad86bc192803ebff
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705820409
+created: 1659705758014
+url: http://localhost:8080/produtos/2
+name: Deletar Produtos
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659705758014
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

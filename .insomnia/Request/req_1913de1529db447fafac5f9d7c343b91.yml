@@ -1,0 +1,21 @@
+_id: req_1913de1529db447fafac5f9d7c343b91
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705595861
+created: 1659705553063
+url: http://localhost:8080/produtos/nome/soro
+name: Procurar por nome Produtos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659705553063
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

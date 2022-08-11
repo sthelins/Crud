@@ -1,0 +1,30 @@
+_id: req_ef65a4566b4f4263b605fb9174275a7b
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705880801
+created: 1659705609599
+url: http://localhost:8080/produtos
+name: Inserir Produtos
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome":"doril",
+    	"cor":"amarelo"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d85108948ac4445abba04b4431b3352e
+authentication: {}
+metaSortKey: -1659705609599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

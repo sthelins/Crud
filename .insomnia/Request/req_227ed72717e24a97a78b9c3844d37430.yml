@@ -1,0 +1,21 @@
+_id: req_227ed72717e24a97a78b9c3844d37430
+type: Request
+parentId: fld_b5f50865a2a740eb8586e41a871eb6f3
+modified: 1659706116710
+created: 1659705805440
+url: http://localhost:8080/categorias/3
+name: Deletar Categorias
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659705805440
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

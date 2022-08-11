@@ -1,0 +1,21 @@
+_id: req_c3878b2417dd45f3bff87050512dc13a
+type: Request
+parentId: fld_4dd77a6500cc42cd9cbadca8b8d3f033
+modified: 1659705516955
+created: 1659705263596
+url: http://localhost:8080/produtos
+name: Procurar todos os Produtos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659705263597
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
